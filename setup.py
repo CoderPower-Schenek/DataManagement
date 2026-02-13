@@ -11,12 +11,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="datamanagement",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Shihong Chen",
+    author_email="schenek@connect.ust.hk",
     description="A flexible data container with query capabilities",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/datamanagement",
+    url="https://github.com/CoderPower-Schenek/DataManagement/",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -50,8 +50,8 @@ setup(
         "ml": ["scikit-learn>=1.0"],
     },
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/datamanagement/issues",
-        "Source": "https://github.com/yourusername/datamanagement",
-        "Documentation": "https://datamanagement.readthedocs.io/",
+        "Bug Reports": "https://github.com/CoderPower-Schenek/DataManagement/issues",
+        "Source": "https://github.com/CoderPower-Schenek/DataManagement",
+        "Documentation": "https://github.com/CoderPower-Schenek/DataManagement/blob/main/Document.md",
     },
 )
