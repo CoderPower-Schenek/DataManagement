@@ -520,13 +520,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Happy coding! 🚀**
-```markdown
-This documentation is designed to be:
-- **Simple and readable** - No complex jargon
-- **Practical** - Lots of code examples users can copy-paste
-- **Comprehensive** - Covers all major features
-- **Well-organized** - Easy to find what you need
-
-You can use this as your `README.md` or adapt it for your Sphinx documentation. Would you like me to also create the Sphinx configuration files to turn this into beautiful HTML documentation?
-```
+Copyright (c) 2026 CoderPower-Schenek
