@@ -41,7 +41,7 @@ ds.to_html_report('report.html')
 ```
 
 ## Documentation
-Full documentation available at datamanagement.readthedocs.io
+Full documentation available at `Document.md`
 
 ## License
 MIT License - see LICENSE file for details.
