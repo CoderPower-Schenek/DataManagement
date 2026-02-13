@@ -14,7 +14,7 @@ pip install git+https://github.com/CoderPower-Schenek/DataManagement.git
 ## 🚀 Quick Start
 
 ```python
-from datamanagement import DataPoint, DataSerials
+from DataManagement import DataPoint, DataSerials
 
 # Create a collection
 ds = DataSerials()
