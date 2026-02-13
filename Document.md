@@ -1,10 +1,7 @@
-I'll create a simple, user-friendly documentation for your DataManagement package. Here's a clean, well-structured document:
-
-```markdown
 # DataManagement Documentation
-
 Welcome to DataManagement! This guide will help you understand and use the package effectively.
 
+```markdown
 ## 📦 Installation
 
 ```bash
@@ -525,8 +522,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Happy coding! 🚀**
-```
-
+```markdown
 This documentation is designed to be:
 - **Simple and readable** - No complex jargon
 - **Practical** - Lots of code examples users can copy-paste
@@ -534,3 +530,4 @@ This documentation is designed to be:
 - **Well-organized** - Easy to find what you need
 
 You can use this as your `README.md` or adapt it for your Sphinx documentation. Would you like me to also create the Sphinx configuration files to turn this into beautiful HTML documentation?
+```
