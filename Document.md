@@ -1,7 +1,6 @@
 # DataManagement Documentation
 Welcome to DataManagement! This guide will help you understand and use the package effectively.
 
-```markdown
 ## 📦 Installation
 
 ```bash
