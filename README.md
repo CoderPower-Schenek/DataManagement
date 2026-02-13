@@ -41,9 +41,8 @@ ds.to_html_report('report.html')
 ```
 
 ## Documentation
-Full documentation available at `Document.md`
+Full documentation available at [Document.md](https://github.com/CoderPower-Schenek/DataManagement/edit/main/Document.md).
 
 ## License
-MIT License - see LICENSE file for details.
+MIT License - see [LICENSE](https://github.com/CoderPower-Schenek/DataManagement/edit/main/LICENSE) file for details.
 
-### `LICENSE`
