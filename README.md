@@ -17,3 +17,33 @@ This pure-python package provides DataPoint and DataSerials classes for managing
 
 ```bash
 pip install datamanagement
+```
+
+## Quick Start
+```python
+from datamanagement import DataPoint, DataSerials
+
+# Create data points
+ds = DataSerials()
+ds.append(DataPoint(id='1', name='Alice', age=25, score=85.5))
+ds.append(DataPoint(id='2', name='Bob', age=30, score=92.0))
+
+# Filter data
+adults = ds.filter(age__gte=18, score__gte=80)
+
+# Group and aggregate
+stats = ds.group_by('age_group', 
+                    avg_score=('score', 'mean'),
+                    count=('id', 'count'))
+
+# Generate report
+ds.to_html_report('report.html')
+```
+
+## Documentation
+Full documentation available at datamanagement.readthedocs.io
+
+## License
+MIT License - see LICENSE file for details.
+
+### `LICENSE`
